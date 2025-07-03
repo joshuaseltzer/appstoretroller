@@ -1,9 +1,9 @@
 Package: dev.mineek.appstoretroller
 Name: appstoretroller
-Version: 0.1.1
+Version: 0.1.1-cobra2168
 Architecture: iphoneos-arm
-Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Description: Bypass the iOS version check in order to purchase unsupported apps from the AppStore
 Maintainer: Mineek
 Author: Mineek
 Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader

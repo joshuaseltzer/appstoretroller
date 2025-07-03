@@ -39,7 +39,7 @@ Disclaimer: Enabling the update option could result in your device displaying up
 			<key>key</key>
 			<string>updatesEnabled</string>
 			<key>label</key>
-			<string>Enabled for Updates (See Disclaimer Above)</string>
+			<string>Enabled for Updates</string>
 			<key>default</key>
 			<false/>
 		</dict>
